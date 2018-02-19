@@ -1,0 +1,27 @@
+{
+  "name": "get-static",
+  "version": "1.0.0",
+  "description": "get static class by give a object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "class",
+    "static"
+  ],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/get-static.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluelovers/get-static/issues"
+  },
+  "homepage": "https://github.com/bluelovers/get-static#readme"
+}
